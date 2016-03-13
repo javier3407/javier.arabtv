@@ -1,6 +1,2 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:5
-#EXT-X-MEDIA-SEQUENCE:2981103
-#EXTINF:4.004,
 http://livestreaming.itworkscdn.net:1935/aljadeedlive/aljadeed_360p/playlist.m3u8
