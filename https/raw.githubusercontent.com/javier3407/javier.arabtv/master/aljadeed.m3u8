@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=667608,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=600x400
-http://iptv-supplier.ddns.net:8000/test/test/4
+https://svs.itworkscdn.net/newtvlive/smil:jadeed.smil/playlist.m3u8?mech9waktaendtime=1463453253&mech9waktawowzastarttime=0&mech9waktawowzastcustom=1463446057&mech9waktahash=4uem4vydMhinyNSJdLWU5MSa2VXbVLh_NW3jcr7pvso=
 
 
 
