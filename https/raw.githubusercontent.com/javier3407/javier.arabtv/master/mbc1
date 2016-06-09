@@ -1,8 +1,8 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:16
-#EXT-X-MEDIA-SEQUENCE:2245
-#EXTINF:9.840000,
-http://storm36.com:8000/live/dwihi23/6R646/200.ts
+<?php
+$url = 'http://149.56.45.203:8000/live/bd5eyws/bd5eyws/437.m3u8' ; // variable que contendra el m3u8
+$contenido= file_get_contents($url); //extraemos el contenido de la url y lo guardamos en la variable $contenido
+echo $contenido; //mostramos el valor de $contenido en el navegador
+?>
+
 
 
